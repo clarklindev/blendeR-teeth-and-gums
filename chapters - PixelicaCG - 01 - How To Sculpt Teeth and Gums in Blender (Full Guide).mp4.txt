@@ -1,0 +1,14 @@
+00:00 - Intro
+00:11 - Modeling the Base shape for Gums
+01:31 - Modeling the Teeth Base
+03:50 - Make the Base ready for sculpting
+04:40 - How to Sculpt the Teeth
+07:28 - How to Sculpt the Details of the Teeth
+11:34 - Fixing the topology of the Gums
+12:00 - How to Sculpt the Gums
+13:16 - How to Add details to the Gums
+14:40 - Adding more details to the teeth
+16:23 - UV Unwrapping the Teeth and Gums
+17:17 - Making the bottom teeth
+18:24 - Final Results
+18:35 - Outro

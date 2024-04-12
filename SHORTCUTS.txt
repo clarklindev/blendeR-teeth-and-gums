@@ -1,0 +1,7 @@
+blender
+
+select object -> SHIFT + H (hide everything else)
+
+show everything -> ALT + H
+
+CTRL + I (invert select)

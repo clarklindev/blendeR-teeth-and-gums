@@ -1,0 +1,13 @@
+
+00:00 - Intro
+00:22 - Setting up the Gums Base Color
+01:48 - Painting the Gums texture
+03:16 - Setting up the Gums Shader
+03:26 - Painting the Teeth Texture
+05:35 - Improving the Teeth and Gums Texture
+07:05 - Setting up the Teeth
+07:17 - Adding Bumps to the Shader
+08:15 - Making the Teeth Darker
+08:47 - Improving the Gums Shader
+09:42 - Results
+09:47 - Outro
